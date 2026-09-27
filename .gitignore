@@ -1,0 +1,28 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Runtime application data
+data/
+
+# Generated snapshots
+snapshot_*.csv
+manual_snapshot_*.csv
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
